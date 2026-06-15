@@ -1,0 +1,6 @@
+Project 1 - Day 1
+
+Installed GitHub Desktop.
+Created and organized the repository structure.
+Successfully cloned the repository to my Windows PC.
+Verified all folders downloaded correctly.
